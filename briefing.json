@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-08-10T21:50:17.088759-04:00",
+  "weather": {
+    "current": 74,
+    "high": 92,
+    "low": 72,
+    "rain": 46,
+    "sunrise": "6:07 AM",
+    "sunset": "8:04 PM",
+    "summary": "Overcast. Feels like 80\u00b0. Rain chance 46%."
+  },
+  "stories": [
+    {
+      "title": "Alabama heads into a second primary election after redistricting",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5914823/alabama-heads-into-a-special-election-after-redistricting",
+      "source": "NPR"
+    },
+    {
+      "title": "After his Reflecting Pool vandalism case is dismissed, David Hearn looks for closure",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5925117/reflecting-pool-david-hearn-legal-fight",
+      "source": "NPR"
+    },
+    {
+      "title": "Trump and RFK Jr. try again to upend vaccines for kids",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5927313/trump-rfk-jr-vaccines-autism-executive-order",
+      "source": "NPR"
+    }
+  ]
+}

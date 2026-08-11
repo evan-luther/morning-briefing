@@ -1,0 +1,14 @@
+{
+  "name": "philadelphia-morning-briefing",
+  "private": true,
+  "scripts": {
+    "build:sky": "esbuild src/sky.ts --bundle --minify --format=iife --outfile=sky.js",
+    "build:data": "python3 scripts/update_briefing.py",
+    "build": "npm run build:sky && npm run build:data"
+  },
+  "dependencies": {
+    "@types/suncalc": "^1.9.2",
+    "esbuild": "^0.28.2",
+    "suncalc": "^2.0.1"
+  }
+}
