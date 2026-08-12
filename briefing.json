@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-11T06:40:19.105041-04:00",
+  "generated_at": "2026-08-12T06:40:55.681318-04:00",
   "weather": {
-    "current": 71,
-    "high": 89,
-    "low": 71,
-    "rain": 18,
-    "sunrise": "6:08 AM",
-    "sunset": "8:02 PM",
-    "summary": "Overcast. Feels like 76\u00b0. Rain chance 18%."
+    "current": 74,
+    "high": 93,
+    "low": 74,
+    "rain": 10,
+    "sunrise": "6:09 AM",
+    "sunset": "8:01 PM",
+    "summary": "Overcast. Feels like 79\u00b0. Rain chance 10%."
   },
   "stories": [
     {
-      "title": "The secret economics inside the new Planet Money board game",
-      "link": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
+      "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
       "source": "NPR"
     },
     {
-      "title": "Former Syrian President Assad sentenced to death in absentia",
-      "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
       "source": "NPR"
     },
     {
-      "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
-      "link": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
+      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
       "source": "NPR"
     }
   ]
