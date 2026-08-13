@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-12T06:40:55.681318-04:00",
+  "generated_at": "2026-08-13T06:40:59.561023-04:00",
   "weather": {
-    "current": 74,
-    "high": 93,
-    "low": 74,
-    "rain": 10,
-    "sunrise": "6:09 AM",
-    "sunset": "8:01 PM",
-    "summary": "Overcast. Feels like 79\u00b0. Rain chance 10%."
+    "current": 73,
+    "high": 90,
+    "low": 73,
+    "rain": 11,
+    "sunrise": "6:10 AM",
+    "sunset": "8:00 PM",
+    "summary": "Clear. Feels like 79\u00b0. Rain chance 11%."
   },
   "stories": [
     {
-      "title": "Feel so busy you don't even realize you're busy? Try doing a time audit",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5896356/find-time-for-things-that-matter-time-audit",
+      "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
+      "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
       "source": "NPR"
     },
     {
-      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
+      "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
+      "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
       "source": "NPR"
     },
     {
-      "title": "Here's how gyms, salons and ice cream are changing America's Main Streets",
-      "link": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
+      "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
+      "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
       "source": "NPR"
     }
   ]
