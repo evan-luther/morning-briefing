@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-13T06:40:59.561023-04:00",
+  "generated_at": "2026-08-14T06:40:29.552184-04:00",
   "weather": {
-    "current": 73,
-    "high": 90,
-    "low": 73,
-    "rain": 11,
-    "sunrise": "6:10 AM",
-    "sunset": "8:00 PM",
-    "summary": "Clear. Feels like 79\u00b0. Rain chance 11%."
+    "current": 75,
+    "high": 91,
+    "low": 75,
+    "rain": 6,
+    "sunrise": "6:11 AM",
+    "sunset": "7:58 PM",
+    "summary": "Clear. Feels like 82\u00b0. Rain chance 6%."
   },
   "stories": [
     {
-      "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
-      "link": "https://www.npr.org/2026/08/13/g-s1-138574/us-west-bank-settlers",
+      "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
+      "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
       "source": "NPR"
     },
     {
-      "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-      "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
+      "title": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
+      "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
       "source": "NPR"
     },
     {
-      "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-      "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
+      "title": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
+      "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
       "source": "NPR"
     }
   ]
