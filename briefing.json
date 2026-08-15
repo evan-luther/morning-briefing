@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-14T06:40:29.552184-04:00",
+  "generated_at": "2026-08-15T06:40:16.783344-04:00",
   "weather": {
-    "current": 75,
-    "high": 91,
-    "low": 75,
-    "rain": 6,
-    "sunrise": "6:11 AM",
-    "sunset": "7:58 PM",
-    "summary": "Clear. Feels like 82\u00b0. Rain chance 6%."
+    "current": 68,
+    "high": 87,
+    "low": 69,
+    "rain": 3,
+    "sunrise": "6:12 AM",
+    "sunset": "7:57 PM",
+    "summary": "Clear. Feels like 70\u00b0. Rain chance 3%."
   },
   "stories": [
     {
-      "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
-      "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
       "source": "NPR"
     },
     {
-      "title": "Fill in the blank on this week's quiz: Rep. AOC is documenting ____ on Instagram",
-      "link": "https://www.npr.org/2026/08/14/g-s1-138426/trump-aoc-primaries-comedy-kalshi-pope-news-quiz",
+      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
       "source": "NPR"
     },
     {
-      "title": "ICE uses controversial program to boost deportations. Here's how it works in 1 county",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5911838/ice-immigration-enforcement-local-police",
+      "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
       "source": "NPR"
     }
   ]
