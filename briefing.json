@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-15T06:40:16.783344-04:00",
+  "generated_at": "2026-08-16T06:40:15.337229-04:00",
   "weather": {
     "current": 68,
-    "high": 87,
-    "low": 69,
-    "rain": 3,
-    "sunrise": "6:12 AM",
-    "sunset": "7:57 PM",
-    "summary": "Clear. Feels like 70\u00b0. Rain chance 3%."
+    "high": 86,
+    "low": 68,
+    "rain": 74,
+    "sunrise": "6:13 AM",
+    "sunset": "7:56 PM",
+    "summary": "Clear. Feels like 73\u00b0. Rain chance 74%."
   },
   "stories": [
     {
-      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
-      "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
+      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
       "source": "NPR"
     },
     {
-      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
-      "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
+      "title": "NPR Senior Podcast Challenge: Official Rules",
+      "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
       "source": "NPR"
     },
     {
-      "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
-      "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
+      "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
+      "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
       "source": "NPR"
     }
   ]
