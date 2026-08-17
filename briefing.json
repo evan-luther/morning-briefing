@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-16T06:40:15.337229-04:00",
+  "generated_at": "2026-08-17T06:40:09.872372-04:00",
   "weather": {
-    "current": 68,
-    "high": 86,
+    "current": 70,
+    "high": 87,
     "low": 68,
-    "rain": 74,
-    "sunrise": "6:13 AM",
-    "sunset": "7:56 PM",
-    "summary": "Clear. Feels like 73\u00b0. Rain chance 74%."
+    "rain": 64,
+    "sunrise": "6:14 AM",
+    "sunset": "7:54 PM",
+    "summary": "Overcast. Feels like 77\u00b0. Rain chance 64%."
   },
   "stories": [
     {
-      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-      "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+      "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
       "source": "NPR"
     },
     {
-      "title": "NPR Senior Podcast Challenge: Official Rules",
-      "link": "https://www.npr.org/2026/08/16/nx-s1-5929441/npr-senior-podcast-challenge-official-rules",
+      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
       "source": "NPR"
     },
     {
-      "title": "Doctors and women who've had it call for more attention on postpartum psychosis",
-      "link": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
+      "title": "Car problems? No childcare? How an app is helping people get to work",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
       "source": "NPR"
     }
   ]
