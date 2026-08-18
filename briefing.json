@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-17T06:40:09.872372-04:00",
+  "generated_at": "2026-08-18T06:40:48.281214-04:00",
   "weather": {
-    "current": 70,
-    "high": 87,
-    "low": 68,
-    "rain": 64,
-    "sunrise": "6:14 AM",
-    "sunset": "7:54 PM",
-    "summary": "Overcast. Feels like 77\u00b0. Rain chance 64%."
+    "current": 73,
+    "high": 86,
+    "low": 73,
+    "rain": 8,
+    "sunrise": "6:15 AM",
+    "sunset": "7:53 PM",
+    "summary": "Overcast. Feels like 80\u00b0. Rain chance 8%."
   },
   "stories": [
     {
-      "title": "Hayden Panettiere, who starred in 'Heroes' and 'Nashville,' dies at 36",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies",
+      "title": "The grueling fight over who profits from AI music",
+      "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
       "source": "NPR"
     },
     {
-      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+      "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
       "source": "NPR"
     },
     {
-      "title": "Car problems? No childcare? How an app is helping people get to work",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5893721/workers-mcdonalds-work-app-jobs-ai",
+      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
       "source": "NPR"
     }
   ]
