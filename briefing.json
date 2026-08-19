@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-18T06:40:48.281214-04:00",
+  "generated_at": "2026-08-19T06:40:54.414233-04:00",
   "weather": {
-    "current": 73,
-    "high": 86,
-    "low": 73,
-    "rain": 8,
-    "sunrise": "6:15 AM",
-    "sunset": "7:53 PM",
-    "summary": "Overcast. Feels like 80\u00b0. Rain chance 8%."
+    "current": 69,
+    "high": 87,
+    "low": 69,
+    "rain": 3,
+    "sunrise": "6:16 AM",
+    "sunset": "7:51 PM",
+    "summary": "Clear. Feels like 74\u00b0. Rain chance 3%."
   },
   "stories": [
     {
-      "title": "The grueling fight over who profits from AI music",
-      "link": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+      "title": "How India's blocking of a film exposing real-life police abuses backfired",
+      "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
       "source": "NPR"
     },
     {
-      "title": "In Portland, this soap box derby combines downhill speed with extreme pageantry",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5935518/portland-oregon-soap-box-derby-race-pdx",
+      "title": "Striking hospital employees sound alarm over workplace violence",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
       "source": "NPR"
     },
     {
-      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+      "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+      "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
       "source": "NPR"
     }
   ]
