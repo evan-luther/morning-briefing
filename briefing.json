@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-19T06:40:54.414233-04:00",
+  "generated_at": "2026-08-20T06:40:41.716850-04:00",
   "weather": {
     "current": 69,
-    "high": 87,
+    "high": 89,
     "low": 69,
-    "rain": 3,
-    "sunrise": "6:16 AM",
-    "sunset": "7:51 PM",
-    "summary": "Clear. Feels like 74\u00b0. Rain chance 3%."
+    "rain": 78,
+    "sunrise": "6:17 AM",
+    "sunset": "7:50 PM",
+    "summary": "Clear. Feels like 74\u00b0. Rain chance 78%."
   },
   "stories": [
     {
-      "title": "How India's blocking of a film exposing real-life police abuses backfired",
-      "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
+      "title": "North Korea fires a suspected missile toward the sea, Japan says",
+      "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
       "source": "NPR"
     },
     {
-      "title": "Striking hospital employees sound alarm over workplace violence",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
+      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
       "source": "NPR"
     },
     {
-      "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
-      "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
+      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
       "source": "NPR"
     }
   ]
