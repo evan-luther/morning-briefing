@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-20T06:40:41.716850-04:00",
+  "generated_at": "2026-08-21T06:40:34.880484-04:00",
   "weather": {
-    "current": 69,
-    "high": 89,
-    "low": 69,
-    "rain": 78,
-    "sunrise": "6:17 AM",
-    "sunset": "7:50 PM",
-    "summary": "Clear. Feels like 74\u00b0. Rain chance 78%."
+    "current": 65,
+    "high": 76,
+    "low": 64,
+    "rain": 4,
+    "sunrise": "6:18 AM",
+    "sunset": "7:49 PM",
+    "summary": "Partly cloudy. Feels like 66\u00b0. Rain chance 4%."
   },
   "stories": [
     {
-      "title": "North Korea fires a suspected missile toward the sea, Japan says",
-      "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
+      "title": "What to know about this weekend's IndyCar race on the National Mall",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
       "source": "NPR"
     },
     {
-      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+      "title": "Federal government thins the herds of wild horses in Colorado",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
       "source": "NPR"
     },
     {
-      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+      "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
       "source": "NPR"
     }
   ]
