@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-21T06:40:34.880484-04:00",
+  "generated_at": "2026-08-22T06:40:20.708076-04:00",
   "weather": {
-    "current": 65,
-    "high": 76,
-    "low": 64,
-    "rain": 4,
-    "sunrise": "6:18 AM",
-    "sunset": "7:49 PM",
-    "summary": "Partly cloudy. Feels like 66\u00b0. Rain chance 4%."
+    "current": 70,
+    "high": 75,
+    "low": 68,
+    "rain": 19,
+    "sunrise": "6:19 AM",
+    "sunset": "7:47 PM",
+    "summary": "Overcast. Feels like 75\u00b0. Rain chance 19%."
   },
   "stories": [
     {
-      "title": "What to know about this weekend's IndyCar race on the National Mall",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
+      "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
+      "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
       "source": "NPR"
     },
     {
-      "title": "Federal government thins the herds of wild horses in Colorado",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
+      "title": "A battle over 'Italian brainrot' could shape who owns AI art",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
       "source": "NPR"
     },
     {
-      "title": "Amid intense backlash, people are vandalizing Flock surveillance cameras",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
+      "title": "Supreme Court allows Trump's ballroom construction to continue for now",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
       "source": "NPR"
     }
   ]
